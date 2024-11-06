@@ -42,5 +42,3 @@ rails server
 ```
 The app will be accessible at [http://localhost:3000](http://localhost:3000).
 ---
-Demo:
-https://drive.google.com/file/d/1IZU3-4Ir701pxx5KBaqUE0ljbrWZLIyu/view?usp=sharing
